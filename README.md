@@ -1,1 +1,1 @@
-# Hackerland-Radio-Transmitters-ALGO-MEDIUM
+# Hackerland-Radio-Transmitters-ALGO-MEDIUM.The function sorts the house positions and uses a greedy approach to place transmitters at the farthest house within range, then skips all houses covered by it. This ensures the minimum number of transmitters are used while covering all houses.
